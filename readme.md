@@ -1,4 +1,4 @@
-Simple Calculator
+##Simple Calculator
 
 A basic Python calculator script that performs addition, subtraction, multiplication, and division.
 
